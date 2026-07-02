@@ -1,0 +1,2 @@
+# n8n-Monitor-Shopify-low-stock-items-with-OpenAI-Google-Sheets-Slack-and-email
+Stay ahead of stock shortages with this **n8n workflow automation** for Shopify. It monitors inventory on a schedule, detects low-stock products, generates AI-powered restock alerts, prevents duplicate notifications using Google Sheets, and sends priority-based Slack alerts to help teams restock before products sell out.
